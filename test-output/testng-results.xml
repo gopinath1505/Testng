@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11448" started-at="2019-03-26T14:44:15Z" finished-at="2019-03-26T14:44:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11448" started-at="2019-03-26T14:44:15Z" finished-at="2019-03-26T14:44:27Z">
+      <class name="org.tcs.First">
+        <test-method status="PASS" signature="Firstmethod()[pri:0, instance:org.tcs.First@32d992b2]" name="Firstmethod" is-config="true" duration-ms="6512" started-at="2019-03-26T14:44:15Z" finished-at="2019-03-26T14:44:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Firstmethod -->
+        <test-method status="PASS" signature="middlemethod()[pri:0, instance:org.tcs.First@32d992b2]" name="middlemethod" duration-ms="4173" started-at="2019-03-26T14:44:22Z" finished-at="2019-03-26T14:44:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- middlemethod -->
+        <test-method status="PASS" signature="finalmethod()[pri:0, instance:org.tcs.First@32d992b2]" name="finalmethod" is-config="true" duration-ms="731" started-at="2019-03-26T14:44:26Z" finished-at="2019-03-26T14:44:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalmethod -->
+      </class> <!-- org.tcs.First -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
